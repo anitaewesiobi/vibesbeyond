@@ -1,0 +1,16 @@
+{
+  "name": "one-music-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d -Musicwebsite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://anitaewesiobi.github.io/vibesbeyond",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
